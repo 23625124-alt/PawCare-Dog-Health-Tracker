@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(-45deg, #7ac7f4, #f8c994, #f96353, #7defc6);
+  background-size: 400% 400%;
+  animation: GradientBG 15s ease infinite;
+  min-height: 100vh;
+}
+
+@keyframes GradientBG {
+  0% {background-position:0% 50%;}
+  50% {background-position:100% 50%;}
+  100% {background-position:0% 50%;}
+}
+
+/* Buttons hover glow */
+button, .btn {
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+button:hover, .btn:hover {
+  box-shadow: 0 0 12px rgba(0,0,0,0.3);
+  transform: translateY(-2px);
+}

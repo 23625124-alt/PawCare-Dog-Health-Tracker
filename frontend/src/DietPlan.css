@@ -1,0 +1,13 @@
+.diet-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg,#ffd6e0,#b1e8ff 60%);
+}
+.card {
+  border-radius: 22px !important;
+  box-shadow: 0 2px 16px #d9ecff88;
+  border: 2px solid #87dbf777;
+}
+.card:hover {
+  border-color: #fd69b5 !important;
+  box-shadow: 0 7px 32px #ffd6e6dd !important;
+}

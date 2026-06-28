@@ -1,0 +1,26 @@
+.breed-bg {
+  background: radial-gradient(circle,#fffde4 0%,#e6e6fa 100%);
+  min-height: 100vh;
+}
+.card {
+  border-radius: 18px !important;
+  transition: transform .22s, box-shadow .22s;
+  box-shadow: 0 4px 16px #eceaff66;
+}
+.card:hover {
+  transform: scale(1.04) translateY(-6px);
+  box-shadow: 0 6px 20px #ba7bea88 !important;
+  border: 2px solid #7f65ff88;
+}
+.card-img-top {
+  border-radius: 16px 16px 0 0 !important;
+  box-shadow: 0 6px 16px #b9ecff66;
+}
+.btn-primary {
+  border-radius: 25px;
+  font-weight: bold;
+  transition: box-shadow .15s;
+}
+.btn-primary:hover {
+  box-shadow: 0 0 15px #ffd6e6 !important;
+}

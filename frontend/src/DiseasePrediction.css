@@ -1,0 +1,14 @@
+.dp-bg {
+  min-height: 100vh;
+  background: linear-gradient(120deg,#e3ffc6 30%,#fef6e0 100%);
+}
+.btn-danger, .btn-outline-danger {
+  border-radius: 20px;
+  transition: box-shadow .15s;
+}
+.btn-danger:hover, .btn-outline-danger:hover {
+  box-shadow: 0 0 15px #ffe0e6 !important;
+}
+ul {
+  font-size:1.07em;
+}

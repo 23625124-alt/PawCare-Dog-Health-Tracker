@@ -1,0 +1,19 @@
+.activity-bg {
+  background: linear-gradient(120deg, #fafdff 20%, #fef6e0 100%);
+}
+.activity-card {
+  border-radius: 18px !important;
+  transition: .2s;
+  box-shadow: 0 2px 12px #dde7f7bb !important;
+}
+.activity-card:hover {
+  transform: scale(1.07) rotate(-2deg);
+  box-shadow: 0 5px 24px #ffe4a444 !important;
+  border: 2px solid #52d67388 !important;
+}
+.activity-card.completed {
+  background: #d0fbe6;
+  border: 2px solid #18c88788 !important;
+  color: #226844;
+  font-weight: bold;
+}

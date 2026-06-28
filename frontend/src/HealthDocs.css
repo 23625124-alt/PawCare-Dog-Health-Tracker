@@ -1,0 +1,16 @@
+.healthdocs-bg {
+  min-height: 100vh;
+  background: linear-gradient(140deg,#f2f6ff 0%,#ffedf6 100%);
+}
+.healthdocs-card {
+  border-radius: 15px !important;
+  box-shadow: 0 2px 12px #c2d7f9bb;
+  font-size: 1.15em;
+  transition: background 0.2s ease;
+}
+.healthdocs-card:hover {
+  background: #e6f0fa;
+}
+.list-group-item {
+  margin-bottom: 6px;
+}

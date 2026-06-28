@@ -1,0 +1,18 @@
+.breed-profile-bg {
+  background: linear-gradient(130deg,#ffe2eb 60%,#eaefff 100%);
+  min-height: 100vh;
+}
+.breed-img {
+  height: 190px;
+  object-fit: cover;
+  border-radius: 16px 16px 0 0;
+}
+.card {
+  border-radius: 24px !important;
+  box-shadow: 0 4px 18px #aabbff66;
+}
+ul {
+  font-size: 1.13em;
+  margin-left: 24px;
+  letter-spacing: 0.5px;
+}

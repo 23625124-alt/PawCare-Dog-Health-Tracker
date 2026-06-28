@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Labrador Retriever",
+		"type": "foreign",
+		"origin": "United Kingdom",
+		"overview": "Friendly, active, and highly adaptable family breed.",
+		"vaccines": ["Rabies", "DHPPiL", "Leptospirosis", "Bordetella"],
+		"grooming": ["Brush 2 to 3 times a week", "Check ears weekly", "Bath every 4 to 6 weeks"],
+		"risks": ["Obesity", "Hip dysplasia", "Ear infections"]
+	},
+	{
+		"name": "German Shepherd",
+		"type": "foreign",
+		"origin": "Germany",
+		"overview": "Intelligent working breed that benefits from exercise and structured routines.",
+		"vaccines": ["Rabies", "DHPPiL", "Leptospirosis", "Bordetella"],
+		"grooming": ["Brush 3 times a week", "Monitor shedding seasons closely", "Inspect hips and paws regularly"],
+		"risks": ["Hip dysplasia", "Skin allergies", "Digestive sensitivity"]
+	},
+	{
+		"name": "Pomeranian",
+		"type": "foreign",
+		"origin": "Germany / Poland",
+		"overview": "Small companion breed with a thick coat that needs regular brushing and careful calorie control.",
+		"vaccines": ["Rabies", "DHPPiL", "Bordetella", "Leptospirosis"],
+		"grooming": ["Daily brushing", "Trim coat regularly", "Check teeth and ears each week"],
+		"risks": ["Dental issues", "Luxating patella", "Overheating"]
+	},
+	{
+		"name": "Rajapalayam",
+		"type": "native",
+		"origin": "Tamil Nadu, India",
+		"overview": "Majestic native breed known for loyalty and stamina.",
+		"vaccines": ["Rabies", "DHPPiL", "Leptospirosis", "Bordetella", "Corona (optional)"],
+		"grooming": ["Weekly brushing with a soft brush", "Monthly bath with mild shampoo", "Check skin and ears for ticks"],
+		"risks": ["Mange", "Tick infestation", "Parvovirus"]
+	},
+	{
+		"name": "Chippiparai",
+		"type": "native",
+		"origin": "Tamil Nadu, India",
+		"overview": "Lean, fast, and resilient native sighthound that thrives on exercise and skin-friendly care.",
+		"vaccines": ["Rabies", "DHPPiL", "Bordetella", "Leptospirosis"],
+		"grooming": ["Brush twice a week", "Bath every 4 weeks", "Check paws after outdoor runs"],
+		"risks": ["Skin irritation", "Tick exposure", "Digestive sensitivity"]
+	}
+]

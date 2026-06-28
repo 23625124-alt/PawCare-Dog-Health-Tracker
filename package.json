@@ -1,0 +1,30 @@
+{
+  "name": "pawcare-project",
+  "version": "1.0.0",
+  "description": "PawCare MERN stack dog health and wellness tracker",
+  "main": "index.js",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev",
+    "start:frontend": "npm --prefix frontend start",
+    "build:frontend": "npm --prefix frontend run build",
+    "test:frontend": "npm --prefix frontend test -- --watch=false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "bootstrap": "^5.3.8",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.4",
+    "react-scripts": "^0.0.0",
+    "web-vitals": "^5.1.0"
+  }
+}

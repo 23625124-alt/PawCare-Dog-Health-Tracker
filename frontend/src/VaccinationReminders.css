@@ -1,0 +1,17 @@
+.vacc-bg {
+  min-height: 100vh;
+  background: linear-gradient(140deg,#ffe8c2 25%,#fdc7f0 100%);
+}
+.card {
+  border-radius: 22px !important;
+  border: 2px solid #ffe28d !important;
+  box-shadow: 0 8px 24px #fff4cc51 !important;
+  transition: box-shadow .18s;
+}
+.card:hover {
+  border-color: #ffb060 !important;
+  box-shadow: 0 16px 40px #ffadff41 !important;
+}
+.btn-outline-danger {
+  border-radius: 18px;
+}

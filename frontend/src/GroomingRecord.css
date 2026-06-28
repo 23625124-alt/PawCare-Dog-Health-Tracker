@@ -1,0 +1,17 @@
+.groomingrec-bg {
+  min-height: 100vh;
+  background: linear-gradient(125deg,#e7ffd8,#f5eaff 100%);
+}
+.groomingrec-table {
+  border-radius: 16px !important;
+  overflow: hidden;
+  box-shadow: 0 4px 18px #c0eeeb55;
+  background: #fff9fc;
+}
+.table-success th {
+  background-color: #e0ffe0 !important;
+}
+tr td {
+  font-size: 1.15em;
+  vertical-align: middle;
+}
